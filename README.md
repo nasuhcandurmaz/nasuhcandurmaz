@@ -61,7 +61,7 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-<a href="mailto:nasuh.durmaz@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail" /></a>
+<a href="mailto:nasuh.durmaz@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="mail" /></a>
 
 <hr class="dotted">
 

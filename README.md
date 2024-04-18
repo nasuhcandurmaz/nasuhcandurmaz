@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nasuhcan</h1>
-<h3 align="center">A passionate developer from Turkey.</h3>
+<h3 align="center">Philosophy and Coding</h3>
 
 
 
@@ -11,40 +11,59 @@
 
 - 💬 Ask me about **JavaScript, JAVA, KOTLIN, Node.js, Express.js**
 
-- 📫 How to reach me **nasuh.durmaz@hotmail.com**
-
 - ⚡ Fun fact **I think I am funny**
 
+- 💼 Do you have a job?  **HA HA. No, son.**
+
+- 𒅒𒈔𒅒𒇫𒄆 **in mundo non datur casus**
+
+
+
+<hr class="dotted">
+
+### Language and Tools
+![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java&logoColor=E06C00)&nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-05122A?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-05122A.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5&logoColor=E34F26)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=268FC9)&nbsp;
+![JS](https://img.shields.io/badge/-Javascript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PostgreSQl](https://img.shields.io/badge/Postgre%20Sql-05122A?style=for-the-badge&logo=postgresql)&nbsp;
+![Axios](https://img.shields.io/badge/-Axios-05122A?style=for-the-badge&logo=axios)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=for-the-badge&logo=kotlin)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
+![bootstrap](https://img.shields.io/badge/-bootstrap-05122A?style=for-the-badge&logo=bootstrap)&nbsp;
+
+
+
+<hr class="dotted">
+
+### 📊 GitHub Analytics
+![](https://github-readme-stats.vercel.app/api?username=nasuhcandurmaz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nasuhcandurmaz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nasuhcandurmaz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<hr class="dotted">
+
+![](https://github-profile-trophy.vercel.app/?username=nasuhcandurmaz&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+### 🤝🏻 Social
+
+
+ <a href="https://www.linkedin.com/in/nasuhcan-durmaz-a442a22b2/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+
+
+<hr class="dotted">
+
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<p align="left">
-<a href="https://linkedin.com/in/nasuhcan-durmaz-a442a22b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nasuhcan-durmaz-a442a22b2" height="30" width="40" /></a>
-</p>
+
+<a href="mailto:nasuh.durmaz@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail" /></a>
+
+<hr class="dotted">
 
 
-
--------------------------------------------
-<h3 align="left">Languages and Tools:</h3>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/NodeJS-Light.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/PostgreSQL-Light.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Postman.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Java-Light.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/ExpressJS-Light.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Kotlin-Light.svg'> </a>
-
-
--------------------------------------------
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasuhcandurmaz&show_icons=true&locale=en&layout=compact" alt="nasuhcandurmaz" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nasuhcandurmaz&show_icons=true&locale=en" alt="nasuhcandurmaz" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nasuhcandurmaz&" alt="nasuhcandurmaz" /></p>
--------------------------------------------
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nasuhcandurmaz&label=Profile%20views&color=0e75b6&style=flat" alt="nasuhcandurmaz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nasuhcandurmaz" alt="nasuhcandurmaz" /></a> </p>
+<img src="https://komarev.com/ghpvc/?username=nasuhcandurmaz&label=Profile%20Views&color=237b5e&style=flat-square" alt="Buse Karaman" />

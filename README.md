@@ -13,6 +13,8 @@
 
 - Which philosopher do you prefer? **I am the KANT**
 
+- Which language do you prefer? **I reall dont know ma'am**
+
 - 𒅒𒈔𒅒𒇫𒄆 **in mundo non datur casus**
 
 

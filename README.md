@@ -11,6 +11,8 @@
 
 - 💼 Do you have a job?  **HA HA. No, son.**
 
+- Which philosopher do you prefer? **I am the KANT**
+
 - 𒅒𒈔𒅒𒇫𒄆 **in mundo non datur casus**
 
 

@@ -23,6 +23,7 @@
 
 ### Language and Tools
 ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java&logoColor=E06C00)&nbsp;
+![Motoko](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java&logoColor=E06C00)&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-05122A?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-05122A.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5&logoColor=E34F26)&nbsp;
